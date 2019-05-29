@@ -4,6 +4,16 @@ Store and query gridded data by TableStore.
 
 ## Getting started
 
+### Maven
+
+```
+<dependency>
+ <groupId>com.aliyun.tablestore</groupId>
+ <artifactId>tablestore-grid</artifactId>
+ <version>1.0.0</version>
+</dependency>
+```
+
 ### 1. download example data:
 
 Before we begin, you should download the following test data(test_echam_spectral.nc) which we will use in this example and configure the file path in ExampleConfig.java.
